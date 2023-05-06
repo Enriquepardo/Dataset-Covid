@@ -1,0 +1,29 @@
+IDEAS
+
+
+
+Gráfico de pastel (Pie Chart) de la distribución de tweets por país: 
+Puedes utilizar un gráfico de pastel para mostrar la proporción de tweets que provienen de diferentes países. 
+Esto te dará una visualización clara de la distribución global de los tweets.
+
+
+Gráfico de barras apiladas (Stacked Bar Chart) de la distribución de tweets por ciudad: 
+Si tienes información sobre las ciudades en el dataset, puedes utilizar un gráfico de barras apiladas para mostrar la distribución de 
+tweets por ciudad en los países principales. 
+Esto te permitirá visualizar qué ciudades dentro de cada país tienen más actividad de tweets.
+
+
+Gráfico de líneas (Line Chart) de la cantidad de tweets a lo largo del tiempo: 
+Si tienes datos de fecha y hora en tu dataset, puedes trazar un gráfico de líneas para mostrar cómo ha evolucionado la cantidad de 
+tweets a lo largo del tiempo. Esto puede revelar tendencias o patrones de actividad.
+
+
+Gráfico de dispersión (Scatter Plot) de los seguidores frente a los amigos: 
+Si tienes información sobre el número de seguidores y amigos de los usuarios, puedes utilizar un gráfico de dispersión para mostrar 
+la relación entre estas dos variables. Esto puede ayudarte a identificar posibles influencers o usuarios influyentes en la red.
+
+
+Gráfico de correlación (Correlation Plot) de las variables numéricas: 
+Si tienes varias variables numéricas en tu dataset, puedes crear un gráfico de correlación para visualizar las relaciones entre ellas. 
+Esto te ayudará a identificar posibles correlaciones o dependencias entre las variables.
+
